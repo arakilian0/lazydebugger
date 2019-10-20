@@ -65,14 +65,11 @@ settings:
 
 const log = require('lazydebugger');
 
-// scenario
 if(userInputIsValid) {
   log(0);
-  // run pass code
 }
 else {
   log(1);
-  // run fail code
 }
 ```
 
@@ -87,7 +84,7 @@ else {
 
 ## Test
 ```
-npm run test
+$ node test.js
 ```
 
 ## License
