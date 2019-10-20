@@ -1,10 +1,10 @@
 {
   "name": "lazydebugger",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "description": "Dead simple, Node.js based logging utility.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "echo \"Warning: no test script specified, but installation was successfull.\" && exit 0"
   },
   "keywords": [
     "logger",
