@@ -1,0 +1,29 @@
+{
+  "name": "lazydebugger",
+  "version": "0.3.2",
+  "description": "Dead simple, Node.js based logging utility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "logger",
+    "debugger",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arakilian0/lazydebugger.git"
+  },
+  "homepage": "https://github.com/arakilian0/lazydebugger#readme",
+  "bugs": {
+    "url": "https://github.com/arakilian0/lazydebugger/issues"
+  },
+  "author": "Michael Arakilian",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "js-yaml": "^3.13.1",
+    "mkdirp": "^0.5.1"
+  }
+}

@@ -1,0 +1,26 @@
+# debug options
+settings:
+  debug: true
+  output:
+    file: true
+    console: true
+    path: "./log"
+    archive: true
+    prefix: 'uuid'
+    color: true
+    bold: true
+    start:
+      message: "START"
+      datetime: true
+      underline: true
+      overline: true
+    end:
+      message: "END"
+      datetime: true
+      underline: true
+      overline: true
+# debug objects
+0:
+  type: test
+  prefix: "TEST:"
+  message: "This is a starter message test."
