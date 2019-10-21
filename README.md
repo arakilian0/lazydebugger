@@ -82,11 +82,6 @@ else {
       - test.log
 ```
 
-## Test
-```
-$ node test.js
-```
-
 ## License
 MIT License
 
