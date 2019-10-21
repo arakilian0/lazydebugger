@@ -1,6 +1,6 @@
 {
   "name": "lazydebugger",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Dead simple, Node.js based logging utility.",
   "main": "index.js",
   "scripts": {
