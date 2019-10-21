@@ -21,12 +21,12 @@ release:
   - arakilian0
   description: "
     Fixed some errors. v0.3.2 up until
-	now had some errors being thrown
-	because of a file dependency not
-	being met. That dependency not being
-	met was also causing some more issues.
-	This release fixes most of those bugs.
-	"
+    now had some errors being thrown
+    because of a file dependency not
+    being met. That dependency not being
+    met was also causing some more issues.
+    This release fixes most of those bugs.
+    "
   schema: same
 ```
 </details>
